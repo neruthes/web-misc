@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Free Pixel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Free Pixel'), url(/web-misc/fonts/free-pixel/free-pixel.ttf) format('ttf'),  url(//neruthes.github.io/web-misc/fonts/free-pixel/free-pixel.ttf) format('ttf'), url(//neruthes.xyz/web-misc/fonts/free-pixel/free-pixel.ttf) format('ttf'), url(//neruthes.now.sh/web-misc/fonts/free-pixel/free-pixel.ttf) format('ttf');
+}
